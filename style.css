@@ -45,12 +45,11 @@ html, body {
     position: relative;
     width: 100% ;
     padding: 1rem;
-    vertical-align:top;
     border: 1px solid #c6c6c6;
     border-radius: .3rem;
     box-sizing: border-box;
     background-color: rgb(253, 252, 252);
-    transition: 1s;  
+    transition: 1s;
 }    
 
 

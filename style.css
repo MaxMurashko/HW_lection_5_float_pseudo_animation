@@ -14,10 +14,12 @@ html, body {
     background-color: rgb(83, 141, 83);
 }
 
+
 .article {
     text-align: center;
     font-size: 3rem;
 }
+
 
 .link-to-phones {
     text-decoration: none;
@@ -25,15 +27,18 @@ html, body {
     transition: .3s;
 }
 
+
 .link-to-phones:hover {
     font-size: 3.2rem;
     text-decoration: underline;
     color: red
 }    
-    
+
+
 .img-center {
     text-align: center;
 }   
+
 
 .good-description {
     display: none;
